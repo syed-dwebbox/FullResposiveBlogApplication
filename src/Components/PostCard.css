@@ -1,0 +1,9 @@
+.card{
+    display: 'flex';
+}
+.CardDetails{
+    flex: 1;
+}
+.cardMedia{
+    width: 160;
+}
